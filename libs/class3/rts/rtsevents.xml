@@ -9049,7 +9049,7 @@
         <Effects />
         <Inputs />
         <Outputs>
-          <RTSStat_Set DurationCancellable="" OutputAmount="40" OutputDuration="" OutputId="Home.Defense.BaseFacilityRange" PauseWhenOffline="" />
+          <RTSStat_Set DurationCancellable="" OutputAmount="60" OutputDuration="" OutputId="Home.Defense.BaseFacilityRange" PauseWhenOffline="" />
         </Outputs>
       </Action>
       <Action ActionFlags="Alt" ActionId="IncreaseRange" ActionType="Action.Passive" ExecuteTimeStandard="0.0" OutputDelayTime="0.0" PauseWhenOffline="">
@@ -9062,7 +9062,7 @@
           <CheckBool InputFlags="" InputId="Status.Tech.Active_OutpostTrapsSet" Invert="" />
         </Inputs>
         <Outputs>
-          <RTSStat_Set DurationCancellable="" OutputAmount="80" OutputDuration="" OutputId="Home.Defense.BaseFacilityRange" PauseWhenOffline="" />
+          <RTSStat_Set DurationCancellable="" OutputAmount="100" OutputDuration="" OutputId="Home.Defense.BaseFacilityRange" PauseWhenOffline="" />
         </Outputs>
       </Action>
     </Actions>
